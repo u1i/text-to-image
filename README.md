@@ -1,1 +1,8 @@
-# text-to-image
+# GCP 
+
+
+# Project
+
+https://github.com/lucidrains/deep-daze
+
+
